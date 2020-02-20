@@ -1,7 +1,5 @@
-%% 
+ 
 Nanocrystal simulation 
 
-%% 
 Developed by Issah Ibrahim 
-
-%% University of Eastern Finland 
+University of Eastern Finland 
